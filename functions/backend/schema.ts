@@ -25,7 +25,7 @@ export const typeDefs = gql`
   }
 
   type Game {
-    id: ID!
+    game_id: ID!
     short_name: String!
     name: String!
     description: String!
@@ -33,7 +33,7 @@ export const typeDefs = gql`
   }
 
   type ExtendedGame {
-    id: ID!
+    game_id: ID!
     short_name: String!
     name: String!
     description: String!
@@ -45,21 +45,21 @@ export const typeDefs = gql`
 
   type Query {
     games: [ExtendedGame!]!
-    game(id: String!): ExtendedGame
+    game(game_id: String!): ExtendedGame
     featuredGames: [FeaturedGame!]!
     controls: [GameControl!]!
   }
 
   type Mutation {
     addGame(
-      id: ID!
+      game_id: ID!
       short_name: String!
       name: String!
       description: String!
       visible: Boolean!
     ): Boolean!
     updateGame(
-      id: ID!
+      game_id: ID!
       short_name: String!
       name: String!
       description: String!

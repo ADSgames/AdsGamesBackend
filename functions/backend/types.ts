@@ -17,7 +17,7 @@ export type GameFile = {
 };
 
 export type Game = {
-  id: string;
+  game_id: string;
   short_name: string;
   name: string;
   description: string;
@@ -25,7 +25,7 @@ export type Game = {
 };
 
 export type GameInput = {
-  id: string;
+  game_input_id: string;
   short_name: string;
   name: string;
   description: string;

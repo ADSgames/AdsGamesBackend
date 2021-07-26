@@ -147,10 +147,10 @@ resources:
       Properties:
         TableName: ${self:provider.environment.GAMES_TABLE}
         AttributeDefinitions:
-          - AttributeName: id
+          - AttributeName: game_id
             AttributeType: S
         KeySchema:
-          - AttributeName: id
+          - AttributeName: game_id
             KeyType: HASH
         ProvisionedThroughput:
           ReadCapacityUnits: 1
