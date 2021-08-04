@@ -1,7 +1,7 @@
 export type GameControl = {
   game_id: string;
-  description: string;
   type: string;
+  description: string;
 };
 
 export type GameImage = {
@@ -35,4 +35,12 @@ export type GameInput = {
 export type FeaturedGame = {
   game_id: string;
   place: number;
+};
+
+export type Session = {
+  tokens: {
+    refresh_token: string;
+    id_token: string;
+    access_token: string;
+  };
 };

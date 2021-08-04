@@ -1,202 +1,202 @@
 [
   {
-    "id": "059a1935-8950-4bb1-9acd-9e27e79741c4",
+    "game_id": "059a1935-8950-4bb1-9acd-9e27e79741c4",
     "name": "Colour Art",
     "short_name": "colourart",
     "description": "Bring out your inner creativity! Create colourful designs using the arrow keys.",
     "visible": true
   },
   {
-    "id": "ba2e031b-2637-4f9b-b2e6-c5837cee3853",
+    "game_id": "ba2e031b-2637-4f9b-b2e6-c5837cee3853",
     "name": "High Flier",
     "short_name": "highflier",
     "description": "Fly through the air so that you may get to the landing strip on time. Do not crash into the surrounding scenery or your airplane will be destroyed.",
     "visible": true
   },
   {
-    "id": "28aeb585-e062-452e-b584-5ca3154646ce",
+    "game_id": "28aeb585-e062-452e-b584-5ca3154646ce",
     "name": "Lane Switcher",
     "short_name": "laneswitcher",
     "description": "On his way to work, Johnny realized he forgot to fill up his gas tank! Pick up gas cans on the road to refill your gas tank avoiding the dangers.",
     "visible": true
   },
   {
-    "id": "7ed5c0c0-396f-4222-80cc-30233e5edb93",
+    "game_id": "7ed5c0c0-396f-4222-80cc-30233e5edb93",
     "name": "Mini Golf",
     "short_name": "minigolf",
     "description": "A classic game of mini golf. Make sure you meet the par each round so you may advance to the next level.",
     "visible": true
   },
   {
-    "id": "f81d51aa-610d-42ea-9cf1-187dd3832630",
+    "game_id": "f81d51aa-610d-42ea-9cf1-187dd3832630",
     "name": "Breaker",
     "short_name": "breaker",
     "description": "Break all the blocks on the board by matching colours. The faster you clear it the higher your score will be.",
     "visible": true
   },
   {
-    "id": "2dd6e7fc-d679-4f36-9592-64d4342a9611",
+    "game_id": "2dd6e7fc-d679-4f36-9592-64d4342a9611",
     "name": "Cave Explorer",
     "short_name": "caveexplorer",
     "description": "Travel through spider infested tunnels and collect treasures. Will you find out what awaits you at the end of the caves?",
     "visible": true
   },
   {
-    "id": "f4f825d5-721a-4b89-b9e3-a19976285943",
+    "game_id": "f4f825d5-721a-4b89-b9e3-a19976285943",
     "name": "Marble Maze",
     "short_name": "marblemaze",
     "description": "Move your marble around stones and dodge spiders. The more coins collected the higher score you will receive.",
     "visible": true
   },
   {
-    "id": "fb74ba5d-fedd-42f9-8161-f5f627cb4b67",
+    "game_id": "fb74ba5d-fedd-42f9-8161-f5f627cb4b67",
     "name": "Mazes",
     "short_name": "mazes",
     "description": "Travel through various mazes and destroy the robots. Push boxes and sweep up debris. This is one puzzle game you do not want to miss.",
     "visible": true
   },
   {
-    "id": "6520b3e3-2e66-445f-aac9-52525d3424ff",
+    "game_id": "6520b3e3-2e66-445f-aac9-52525d3424ff",
     "name": "Memory",
     "short_name": "memory",
     "description": "Match all the cards on the table in four different difficulties. Compete against yourself and others with the high-score tables.",
     "visible": true
   },
   {
-    "id": "86c16c60-0e29-431b-8f93-e2c1ce207d87",
+    "game_id": "86c16c60-0e29-431b-8f93-e2c1ce207d87",
     "name": "Miners Bay",
     "short_name": "minersbay",
     "description": "Destroy and place blocks in a huge randomly generated world, find treasures, craft new items and dig to the depths of the earth.",
     "visible": true
   },
   {
-    "id": "c2244f84-4b7e-472d-805b-a1bdc3331acc",
+    "game_id": "c2244f84-4b7e-472d-805b-a1bdc3331acc",
     "name": "Minesweeper",
     "short_name": "minesweeper",
     "description": "A remake of the classic windows game, Minesweeper. Clear the board of mines by marking each one to ensure that the area is safe.",
     "visible": true
   },
   {
-    "id": "354d2750-1073-4c96-9540-39fd7d9d8a38",
+    "game_id": "354d2750-1073-4c96-9540-39fd7d9d8a38",
     "name": "Mordor",
     "short_name": "mordor",
     "description": "A Windows GUI based RPG. In this game, you have to travel to different locations around middle earth and smite anyone who dares to defy you. Your final goal is to purchase and equip the godly sword and shield, then you will become the most powerful being in history.",
     "visible": true
   },
   {
-    "id": "9db42e22-0ea1-4307-9d83-f4af61a98bca",
+    "game_id": "9db42e22-0ea1-4307-9d83-f4af61a98bca",
     "name": "Platforms",
     "short_name": "platforms",
     "description": "A great shooter/platformer in which you must travel through many levels to finally defeat the giant bat boss whom allegedly killed your father.",
     "visible": true
   },
   {
-    "id": "aed624cf-5eea-4b09-86a6-e700de3cb859",
+    "game_id": "aed624cf-5eea-4b09-86a6-e700de3cb859",
     "name": "Robot Flier",
     "short_name": "robotflier",
     "description": "Control a rocket propelled robot through the dangers of space. Travel from the Moon to Mars, the Sun and the mysterious Dark Planet using an advanced teleportation chip.  Collect energy to keep flying and get power ups to help you survive. Will you be able to find your way through all the planets in the unforgiving space?",
     "visible": true
   },
   {
-    "id": "2385e949-6f9f-40d6-a0d4-4c71a1a6034a",
+    "game_id": "2385e949-6f9f-40d6-a0d4-4c71a1a6034a",
     "name": "Rock Paper Scissors",
     "short_name": "rockpaperscissors",
     "description": "Play a realistic game of rock paper scissors against an AI opponent.",
     "visible": true
   },
   {
-    "id": "d7547d8c-8da4-4282-b2e9-860463b77e52",
+    "game_id": "d7547d8c-8da4-4282-b2e9-860463b77e52",
     "name": "Slime Knight",
     "short_name": "slimeknight",
     "description": "The entire world has been infested by slimes. The people of Avalor did no know what to do so they summoned the great slime knight from his grave. Your mission is to kill all the slimes and destroy the towers where they are coming from with the golden hammer.",
     "visible": true
   },
   {
-    "id": "ce65e834-307f-471c-8293-6c9a30d4dc48",
+    "game_id": "ce65e834-307f-471c-8293-6c9a30d4dc48",
     "name": "Tic Tac Toe",
     "short_name": "tictactoe",
     "description": "Play Tic Tac Toe against a computer or your friends. Features three levels of difficulty for the casual and intense players.",
     "visible": true
   },
   {
-    "id": "bc56a6fc-56f5-4b00-b9e2-0119d5c2a433",
+    "game_id": "bc56a6fc-56f5-4b00-b9e2-0119d5c2a433",
     "name": "Space Fighter",
     "short_name": "spacefighter",
     "description": "Play as a lone space cruiser whom needs to fight through hoards of enemy space ships. The farther you get the more skilled the enemies become. \r\n\t\t*NOTE you must have .NET framework 4.0\r\n\t\t(http://www.microsoft.com/en-ca/download/details.aspx?id=17851) \r\n\t\tand XNA game studio redistributable\r\n\t\t(http://www.microsoft.com/en-ca/download/details.aspx?id=15163)\r\n                A game by Sullivan Stobo \r\n     ",
     "visible": true
   },
   {
-    "id": "6e03d116-5eab-44e7-b048-1bf4d2f67d09",
+    "game_id": "6e03d116-5eab-44e7-b048-1bf4d2f67d09",
     "name": "Jim Farm",
     "short_name": "jimfarm",
     "description": "A casual retro farming game. Jim inherits a run down farm from his Great Uncle, and he must turn it back into a successful farm.\r\n",
     "visible": true
   },
   {
-    "id": "ee66bb3b-c387-4057-b9b1-24b9f934b39d",
+    "game_id": "ee66bb3b-c387-4057-b9b1-24b9f934b39d",
     "name": "Jims Alien Adventure",
     "short_name": "jimsalienadventure",
     "description": "The evil goat aliens are taking over Earth and destroying all the famous landmarks! Its all up to Jim McDonald to climb up the landmarks and shut down the flying alien goat saucers.\r\n",
     "visible": true
   },
   {
-    "id": "be32c2f6-1a1e-4790-9e08-b80fff678f53",
+    "game_id": "be32c2f6-1a1e-4790-9e08-b80fff678f53",
     "name": "Jed Clicker",
     "short_name": "jedclicker",
     "description": "Build your way up from nothing by clicking the golden JedCoin. Win by making enough JedCoin to buy a Jed.",
     "visible": true
   },
   {
-    "id": "9a816edb-e3fe-4947-a909-9d76a86cd79f",
+    "game_id": "9a816edb-e3fe-4947-a909-9d76a86cd79f",
     "name": "Jed Clicker JS",
     "short_name": "jedclickerjs",
     "description": "Build your way up from nothing by clicking the golden JedCoin. Win by making enough JedCoin to buy a Jed.",
     "visible": true
   },
   {
-    "id": "b19265f8-a63f-4bef-8a46-f7ac3887f66c",
+    "game_id": "b19265f8-a63f-4bef-8a46-f7ac3887f66c",
     "name": "Super Archer Man Jim",
     "short_name": "superarcherman",
     "description": "Armed with only a bow, you must infiltrate various strongholds and steal the crown. Once you have it, get back to where you started.",
     "visible": true
   },
   {
-    "id": "da53d10c-3864-4189-bb87-4908ab5aad9b",
+    "game_id": "da53d10c-3864-4189-bb87-4908ab5aad9b",
     "name": "Deep Space",
     "short_name": "deepspace",
     "description": "Guide your lost spaceship through the deep space and avoid space debris. This game is hard!",
     "visible": true
   },
   {
-    "id": "5bd9d63e-fadd-4cae-918f-461396775cb5",
+    "game_id": "5bd9d63e-fadd-4cae-918f-461396775cb5",
     "name": "Pong",
     "short_name": "pong",
     "description": "Classic pong. Play against a friend or against a computer player.",
     "visible": true
   },
   {
-    "id": "764a88db-139d-4e52-84f4-f14401f50433",
+    "game_id": "764a88db-139d-4e52-84f4-f14401f50433",
     "name": "Jumping Jimothy",
     "short_name": "jumpingjimothy",
     "description": "Jump on boxes while controlling gravity to reach the goat at the end of the level.",
     "visible": true
   },
   {
-    "id": "14c1634f-bb7b-4e0b-a764-8a7636025c61",
+    "game_id": "14c1634f-bb7b-4e0b-a764-8a7636025c61",
     "name": "Brick Breaker",
     "short_name": "brickbreaker",
     "description": "Prevent the ball from hitting the dangerous lava below. Try to clear the stage of all bricks to win.",
     "visible": true
   },
   {
-    "id": "921ac0b2-b921-4dc4-a58a-e7c8f9f7fcff",
+    "game_id": "921ac0b2-b921-4dc4-a58a-e7c8f9f7fcff",
     "name": "Solitaire",
     "short_name": "solitaire",
     "description": "A simple game of solitaire written in JS.",
     "visible": true
   },
   {
-    "id": "03d9293f-082b-451f-90e4-b3009452d447",
+    "game_id": "03d9293f-082b-451f-90e4-b3009452d447",
     "name": "Game of Life",
     "short_name": "gameoflife",
     "description": "A clone of Conway&#39;s Game of Life",

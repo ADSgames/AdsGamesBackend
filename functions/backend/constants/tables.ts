@@ -1,7 +1,7 @@
 export const TABLES = {
-  GAMES: process.env.GAMES_TABLE ?? "",
-  GAME_CONTROLS: process.env.GAME_CONTROLS_TABLE ?? "",
-  GAME_FILES: process.env.GAME_FILES_TABLE ?? "",
-  GAME_IMAGES: process.env.GAME_IMAGES_TABLE ?? "",
-  FEATURED_GAMES: process.env.FEATURED_GAMES_TABLE ?? "",
+  GAMES: "adsgames-backend-dev-games",
+  GAME_CONTROLS: "adsgames-backend-dev-game-controls",
+  GAME_FILES: "adsgames-backend-dev-game-files",
+  GAME_IMAGES: "adsgames-backend-dev-game-images",
+  FEATURED_GAMES: "adsgames-backend-dev-featured-games",
 };
